@@ -1,0 +1,2 @@
+# Remove the rectangle, then take one more snapshot
+    snapshot Test snapshot

@@ -1,0 +1,6 @@
+# Make a rectangle red
+    shape   myrect   rectangle  200  200 50  100  255  0  0
+
+# Take a snapshot
+    color myrect    0  0  255
+    snapShot change color
